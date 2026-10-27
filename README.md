@@ -1,4 +1,16 @@
-# 🧠 Multi-Agent AI Architecture & Advanced Tool Calling
+<div align="center">
+
+# AI Investment Research Platform
+
+Specialized agents, financial tools, and a shared research workflow.
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square" /> <img alt="Tool Calling" src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=flat-square" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" />
+
+**[Mayank Madhukar](https://github.com/Mayank112233)**
+
+</div>
+
+---
 
 The **AI Investment Research Platform** is built on a **Multi-Agent AI architecture** using **LangGraph**, where multiple specialized AI agents collaborate to perform comprehensive investment research. Rather than depending on a single LLM response, the platform decomposes a complex investment analysis task into several smaller, specialized tasks. Each agent is responsible for a specific domain of financial analysis and is equipped with dedicated tools that enable it to retrieve, analyze, and process real-world financial information.
 
